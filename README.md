@@ -1,10 +1,10 @@
-### Hello.
-[![LinkedIn](https://raw.githubusercontent.com/jaredhanson/jaredhanson/master/images/linkedin-20x20.svg)](https://www.linkedin.com/in/) &nbsp;
-[![Twitter](https://raw.githubusercontent.com/jaredhanson/jaredhanson/master/images/twitter-20x20.svg)](https://twitter.com/tulipmaneth)
+
 
 <h1 align="center">Hi 👋, I'm Solomon Adesanya</h1>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me.
+[![LinkedIn](https://raw.githubusercontent.com/jaredhanson/jaredhanson/master/images/linkedin-20x20.svg)](https://www.linkedin.com/in/) &nbsp;
+[![Twitter](https://raw.githubusercontent.com/jaredhanson/jaredhanson/master/images/twitter-20x20.svg)](https://twitter.com/tulipmaneth)
 
 <p align="left">
 <h3 align="left">Languages and Tools:</h3>
