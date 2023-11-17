@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Solomon Adesanya</h1>
 
 ### Connect with me.
-[![LinkedIn](https://raw.githubusercontent.com/jaredhanson/jaredhanson/master/images/linkedin-20x20.svg)](https://www.linkedin.com/in/) &nbsp;
+[![LinkedIn](https://raw.githubusercontent.com/jaredhanson/jaredhanson/master/images/linkedin-20x20.svg)](www.linkedin.com/in/solomon-adesanya-36189429b) &nbsp;
 [![Twitter](https://raw.githubusercontent.com/jaredhanson/jaredhanson/master/images/twitter-20x20.svg)](https://twitter.com/tulipmaneth)
 
 <p align="left">
